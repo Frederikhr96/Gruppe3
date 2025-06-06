@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>Opskrift: Spaghetti Carbonara</title>
+</head>
+<body>
+  <h1>Spaghetti Carbonara</h1>
+  <p>
+    Her er en simpel og autentisk opskrift på spaghetti carbonara, som du kan lave på under 20 minutter.
+    Du får brug for få ingredienser, og resultatet er en cremet, smagfuld ret uden fløde. Perfekt til en hurtig hverdagsmiddag!
+  </p>
+
+  <h2>Ingredienser (2 personer)</h2>
+  <ul>
+    <li>200 g spaghetti</li>
+    <li>100 g pancetta eller bacon (skåret i små tern)</li>
+    <li>2 æg</li>
+    <li>50 g friskrevet Pecorino Romano eller Parmesan</li>
+    <li>2 spsk olivenolie</li>
+    <li>Salt</li>
+    <li>Friskkværnet sort peber</li>
+  </ul>
+
+  <h2>Fremgangsmåde</h2>
+  <ol>
+    <li>Kog spaghetti i rigeligt letsaltet vand efter pakkens anvisning, indtil den er “al dente”. Gem ca. ½ dl af kogevandet, inden du hælder pastaen fra.</li>
+    <li>Mens spaghetti koger, varm olivenolie i en pande ved middel varme. Tilsæt pancetta eller bacontern og steg, indtil de er sprøde og gyldne (ca. 5–6 minutter). Skru ned for varmen, så det ikke brænder på.</li>
+    <li>I en skål piskes æg sammen med den revne ost, et godt nip salt (vær forsigtig – osten er allerede salt) og et par gode kværn friskkværnet sort peber. Sæt til side.</li>
+    <li>Når pastaen er færdigkogt, hældes vandet fra, og pastaen rykkes direkte over i panden med pancetta. Rør hurtigt rundt, så pastaen bliver let dækket af fedtet fra pancettaen. Tag straks panden af varmen.</li>
+    <li>Tilsæt ægge- og osteblandingen til pasta og pancetta, mens du rører kraftigt. Varmen fra den nyligt kogte pasta og panden tilbereder æggene blidt, så du får en cremet sauce. Hvis saucen virker for tyk, tilsæt lidt af det gemte kogevand, indtil den ønskede konsistens er nået.</li>
+    <li>Smag til med ekstra peber og evt. en smule salt. Anret straks på varme tallerkener, og drys evt. lidt ekstra revet ost og friskkværnet peber ovenpå.</li>
+    <li>Server med det samme – carbonara skal nydes varm og lige fra panden.</li>
+  </ol>
+</body>
+</html>
