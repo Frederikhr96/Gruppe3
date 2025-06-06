@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 
 <title>En BID af Verdenen</title>
-<style>
-    body {
+<head>
+  <meta charset="UTF-8">
+  <title>Forside: En BID af verdenen</title>
+  <style>
+  body {
       margin: 0;
       padding: 20px;
       font-family: Arial, sans-serif;
@@ -11,40 +14,43 @@
       background-attachment: fixed;
     }
     h1 {
-      text-align: center;
       color: #333;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      max-width: 400px;
-      margin: 0 auto;
-      background: rgba(255, 255, 255, 0.8);
-      border-radius: 8px;
-      padding: 15px 20px;
-    }
-    li {
-      margin-bottom: 10px;
-      font-size: 1rem;
-      color: #222;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    p {
       text-align: center;
-      color: #555;
-      margin-top: 20px;
+    }
+    /* Gør forsiden-billedet mindre ved at sætte max-width til 250px */
+    .cover-image {
+      display: block;
+      width: 100%;
+      height: auto;
+      margin: 0 auto 20px auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
+    .links {
+      text-align: center;
+      margin-top: 30px;
+    }
+    .links a {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background-color: #0066cc;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 4px;
+    }
+    .links a:hover {
+      background-color: #004f99;
     }
   </style>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <h1>En BID af Verdenen</h1>
+</head>
+<body>
+  <h1>En BID af verdenen</h1>
+
+  <!-- Forside-billede, fx Billeder/Pasta_forside.png, nu maks. 250px bredt -->
+  <img src="Billeder/Pasta_forside.png" alt="Pastabillede" class="cover-image">
+
+  
 <br>
 </head>
 

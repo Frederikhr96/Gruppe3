@@ -15,6 +15,16 @@
       text-align: center;
       color: #333;
     }
+    /* Gør billedet mindre ved at sætte max-width til 250px */
+    .recipe-image {
+      display: block;
+      max-width: 400px;  /* Reduceret fra 400px til 250px */
+      width: 100%;
+      height: auto;
+      margin: 0 auto 20px auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+    }
     ul {
       list-style: none;
       padding: 0;
@@ -45,6 +55,7 @@
 </head>
 <body>
   <h1>Spaghetti Carbonara</h1>
+    <img src="Billeder/Carbonara.png" alt="Spaghetti Carbonara" class="recipe-image">
   <p>
     Her er en simpel og autentisk opskrift på spaghetti carbonara, som du kan lave på under 20 minutter.
     Du får brug for få ingredienser, og resultatet er en cremet, smagfuld ret uden fløde. Perfekt til en hurtig hverdagsmiddag!
